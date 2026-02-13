@@ -72,3 +72,12 @@ body.light-mode .nav-link,
 body.light-mode .navbar-brand span {
     color: black !important;
 }
+/* Espacio para el navbar */
+.navbar {
+    padding: 15px 30px;
+}
+
+/* Separación del contenido */
+body {
+    padding-top: 80px;
+}
